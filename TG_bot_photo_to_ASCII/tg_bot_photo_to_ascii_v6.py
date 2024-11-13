@@ -5,7 +5,7 @@ from PIL import Image, ImageOps
 import io
 from telebot import types
 
-TOKEN = '7181678852:AAG25R4JIqrj0D_zfsi3ykUemSOl4J4joAg'
+TOKEN = ''
 bot = telebot.TeleBot(TOKEN)
 
 user_states = {}  # Здесь будем хранить информацию о действиях пользователя
